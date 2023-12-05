@@ -1,6 +1,6 @@
 ### Contacts
 
-📫 `[srubinac] [at] [broadinstitute] [dot] [org]`
+📫 [Email / Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/211730)
 
 💬 [ X / Twitter ](https://twitter.com/simrubk)
 
