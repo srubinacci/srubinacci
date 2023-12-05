@@ -1,6 +1,8 @@
-### Contacts
+### About me / Contacts
 
-📫 [Email / Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/211730)
+🔭 [Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/211730)
+
+📫 ![image](https://github.com/srubinacci/srubinacci/assets/17588501/cb8c767d-e32f-4f96-98d1-4f4656b1efcc)
 
 💬 [ X / Twitter ](https://twitter.com/simrubk)
 
