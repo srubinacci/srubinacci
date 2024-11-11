@@ -1,6 +1,6 @@
 ### About Me / Contacts
 
-🔭 [Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/211730)
+🔭 [Website](srubinacci.github.io)
 
 📫 Email: simone [dot] rubinacci [at] helsinki [dot] fi
 
