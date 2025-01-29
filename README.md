@@ -1,6 +1,6 @@
 ### About Me / Contacts
 
-🔭 [Website](srubinacci.github.io)
+🔭 [Website](https://www.helsinki.fi/en/researchgroups/computational-and-statistical-genomics)
 
 📫 Email: simone [dot] rubinacci [at] helsinki [dot] fi
 
