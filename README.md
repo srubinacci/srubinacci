@@ -1,6 +1,6 @@
 ### About Me / Contacts
 
-🔭 [Website](https://https://compstatgenlab.github.io/)
+🔭 [Website](https://compstatgenlab.github.io/)
 
 📫 Email: simone [dot] rubinacci [at] helsinki [dot] fi
 
